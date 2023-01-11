@@ -4,7 +4,7 @@
 Use advanced data storage and retrieval to analyze temperature trends in Oahu, Hawaii in summer and winter months. Obtain a summary statistics of the temperature data captured for the months of June and December. Knowing temperature trends will allow potential businesses to determine whether it is worth opening up on Oahu and how it could potentially affect business throughout the year.
 
 ## Analysis
-###June
+### June
 Summary Statistics for June
 
 images/june_summary_stats.png
