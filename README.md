@@ -7,20 +7,20 @@ Use advanced data storage and retrieval to analyze temperature trends in Oahu, H
 ### June
 Summary Statistics for June
 
-images/june_summary_stats.png
+![June Stats](https://user-images.githubusercontent.com/112137694/211697162-47602bcb-410e-426f-b8e5-202411c86240.png)
 
 June Visualization of Temperature Readings and Frequency
 
-images/june_visual.png
+![June Plt](https://user-images.githubusercontent.com/112137694/211697175-2cfedf4d-927a-4cdd-956f-3f9cf6bc9662.png)
 
 ### December
 Summary Statistics for December
 
-images/dec_summary_stats.png
+![Dec Stats](https://user-images.githubusercontent.com/112137694/211697195-dec35487-8197-4038-a71e-974d4ba93750.png)
 
 December Visualization of Temperature Readings and Frequency
 
-images/dec_visual.png
+![Dec Plt](https://user-images.githubusercontent.com/112137694/211697205-abdf66aa-529e-4cf2-8906-dd05b3baff0b.png)
 
 ### Key Takeaways
 - As expected, on average June has a higher average recorded temperature (74 degrees F). However, it is only about 4 degrees higher than December (71 degrees F).
